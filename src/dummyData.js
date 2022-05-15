@@ -7,10 +7,7 @@ export const userData = [
     name: "Feb",
     "Active User": 5420,
   },
-  {
-    name: "Page C",
-    "Active User": 2479,
-  },
+
   {
     name: "Mar",
     "Active User": 8780,
