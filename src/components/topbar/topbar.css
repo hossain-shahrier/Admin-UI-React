@@ -14,9 +14,11 @@
   justify-content: space-between;
 }
 .logo {
-  font-weight: bold;
-  font-size: 30px;
-  cursor: pointer;
+  width: 70px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .topRight {
   display: flex;

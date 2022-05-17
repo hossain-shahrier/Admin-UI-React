@@ -8,7 +8,7 @@ export default function Topbar() {
         <div className="topLeft">
           <span className="logo">
             <Link style={{ textDecoration: "none", color: "black" }} to="/">
-              H&H Admin
+              <img src="logo.png" alt="logo" className="logo" />
             </Link>
           </span>
         </div>
