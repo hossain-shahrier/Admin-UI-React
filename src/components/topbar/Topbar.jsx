@@ -22,7 +22,6 @@ export default function Topbar() {
           <img
             src="https://scontent.fdac109-1.fna.fbcdn.net/v/t39.30808-6/270811452_1581497445523803_8125831556954792482_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=e3f864&_nc_eui2=AeHUg61Odx9bU3L4MYcs5fYkIFiXVqOSaR4gWJdWo5JpHhpyT0f_8VmmSldl4PnOPlujNeGvcuYhm6qs8UlTR7-J&_nc_ohc=x2MsMMMHQkQAX-bosbW&_nc_ht=scontent.fdac109-1.fna&oh=00_AT-iEWnuA1NXdP1WI5NGAo4t1bbulU_8N7SEJCxPh6rWtA&oe=6284F8F1"
             alt="avatar"
-            srcset=""
             className="topAvatar"
           />
         </div>
